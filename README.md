@@ -21,8 +21,6 @@ Base on:
 Pre-requisites
 --------------
 - Android SDK 25 or Higher
-- [Color Picker Module](http://www.materialdoc.com/color-picker/)
-
 
 
 
