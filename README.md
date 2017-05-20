@@ -1,15 +1,12 @@
 Repeat Alarm
 =============
 
-![Scheme](/screenshots/device-2017-03-11-172715x.png)
-![Scheme](/screenshots/device-2017-03-11-172808x.png)
-![Scheme](/screenshots/device-2017-03-11-172852x.png)
+![Scheme](/screenshots/device-2017-05-19-223834.png)
 
 
 Android application to learn repeat alarm notifications.
 
 Base on:
-- https://www.youtube.com/watch?v=1fV9NmvxXJo
 - https://stacktips.com/tutorials/android/repeat-alarm-example-in-android
 - https://github.com/StackTipsLab/Android-Alarm-Service-Example
 - https://developer.android.com/training/scheduling/alarms.html
