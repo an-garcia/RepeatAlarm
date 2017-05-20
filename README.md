@@ -6,14 +6,15 @@ Repeat Alarm
 ![Scheme](/screenshots/device-2017-03-11-172852x.png)
 
 
-Android application to repeat alarm events.
+Android application to learn repeat alarm notifications.
+
 Base on:
-https://www.youtube.com/watch?v=1fV9NmvxXJo
-https://stacktips.com/tutorials/android/repeat-alarm-example-in-android
-https://github.com/StackTipsLab/Android-Alarm-Service-Example
-https://developer.android.com/training/scheduling/alarms.html
-http://www.concretepage.com/android/android-alarm-clock-tutorial-to-schedule-and-cancel-alarmmanager-pendingintent-and-wakefulbroadcastreceiver-example
-http://stackoverflow.com/questions/37505106/show-repeating-notification-from-some-start-date-until-some-end-date
+- https://www.youtube.com/watch?v=1fV9NmvxXJo
+- https://stacktips.com/tutorials/android/repeat-alarm-example-in-android
+- https://github.com/StackTipsLab/Android-Alarm-Service-Example
+- https://developer.android.com/training/scheduling/alarms.html
+- http://www.concretepage.com/android/android-alarm-clock-tutorial-to-schedule-and-cancel-alarmmanager-pendingintent-and-wakefulbroadcastreceiver-example
+- http://stackoverflow.com/questions/37505106/show-repeating-notification-from-some-start-date-until-some-end-date
 
 
 
