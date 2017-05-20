@@ -1,9 +1,9 @@
 Repeat Alarm
 =============
 
-![Scheme](/readmeImages/device-2017-03-11-172715x.png)
-![Scheme](/readmeImages/device-2017-03-11-172808x.png)
-![Scheme](/readmeImages/device-2017-03-11-172852x.png)
+![Scheme](/screenshots/device-2017-03-11-172715x.png)
+![Scheme](/screenshots/device-2017-03-11-172808x.png)
+![Scheme](/screenshots/device-2017-03-11-172852x.png)
 
 
 Android application to repeat alarm events.
