@@ -96,8 +96,12 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        switch (id){
+            case R.id.action_settings:
+                return true;
+            case R.id.action_alarm2:
+                launchAlarm2Activity(getApplicationContext());
+                return true;
         }
 
         return super.onOptionsItemSelected(item);
@@ -131,4 +135,16 @@ public class MainActivity extends AppCompatActivity {
         manager.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),
                 1000 * 60 * 20, pendingIntent);
     }
+
+
+    /**
+     * Launches the activity.
+     * @param context Context
+     */
+    public void launchAlarm2Activity(final Context context) {
+        Intent intent = new Intent(context, AlarmActivity.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        context.startActivity(intent);
+    }
+
 }

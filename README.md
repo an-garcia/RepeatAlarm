@@ -13,7 +13,9 @@ Base on:
 - http://www.concretepage.com/android/android-alarm-clock-tutorial-to-schedule-and-cancel-alarmmanager-pendingintent-and-wakefulbroadcastreceiver-example
 - http://stackoverflow.com/questions/37505106/show-repeating-notification-from-some-start-date-until-some-end-date
 
-
+- https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
+- https://developer.android.com/guide/topics/ui/notifiers/notifications.html#SimpleNotification
+- https://www.youtube.com/watch?v=7maNuWjL3Wc
 
 Pre-requisites
 --------------
